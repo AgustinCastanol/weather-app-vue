@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.cold{
+    background-image: url('./cold-bg.jpg');
+}
+.warm{
+    background-image: url('./warm-bg.jpg');
+}
